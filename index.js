@@ -8,6 +8,23 @@ app.use(cors({
 }), express.json());
 
 
+app.get('/teste/1', (request, response) => {
+  const json = {
+    titulo: 'Viagens pelo Mundo: Descobrindo Novos Destinos',
+    subtitulo: 'Uma Jornada Inesquecível de Aventuras e Culturas',
+    autor: {
+      nome: 'Maria Silva',
+      email: 'mariasilva@example.com',
+      perfil_social: {
+        twitter: 'mariasilva',
+        linkedin: 'mariasilva',
+      },
+    },
+  }
+
+  response.send(json);
+});
+
 app.get('/testes', (request, response) => {
     const json = {
         titulo: 'Viagens pelo Mundo: Descobrindo Novos Destinos',
