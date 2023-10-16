@@ -25,7 +25,7 @@ app.get('/', (request, response) => {
   response.send(json);
 });
 
-app.get('/teste1', (request, response) => {
+app.get('/ServerRender', (request, response) => {
   const json = {
     titulo: 'Viagens pelo Mundo: Descobrindo Novos Destinos',
     subtitulo: 'Uma Jornada Inesquecível de Aventuras e Culturas',
@@ -84,86 +84,141 @@ app.get('/teste1', (request, response) => {
     idioma: 'Português',
     numero_palavras: 1800,
     autor_foto: 'mariasilva.jpg',
-    imagem_destaque: 'destaque-viagem.jpg',
+    imagem_destaque: 'https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg',
     url_compartilhamento: 'https://seusite.com/artigo/456',
     fonte_referencia: 'https://exemplo.com/viagens-referencia',
   };
   response.send(json);
 });
 
-app.get('/teste2', (request, response) => {
+app.get('/StaticRender', (request, response) => {
   const json = {
-
-    "produto": {
-      "nome": "Smartphone XYZ",
-      "preco": 599.99,
-      "estoque": 50
+    "titulo": "A Magia das Cozinhas do Mundo",
+    "subtitulo": "Uma Jornada Gastronômica de Sabores e Culturas",
+    "autor": {
+      "nome": "João Oliveira",
+      "email": "joao@example.com",
+      "perfil_social": {
+        "twitter": "joaochef",
+        "linkedin": "joaochef"
+      }
     },
-    "marca": "TechCo",
-    "descricao": "O Smartphone XYZ é o dispositivo perfeito para todas as suas necessidades de comunicação e entretenimento. Com um design elegante e recursos de ponta, você ficará impressionado com o desempenho deste aparelho.",
-    "especificacoes": {
-      "tela": "6.4 polegadas, Super AMOLED",
-      "processador": "Octa-core 2.0 GHz",
-      "armazenamento": "128GB",
-      "camera_principal": "Câmera de 48MP",
-      "camera_frontal": "Câmera de 16MP",
-      "bateria": "4000mAh",
-      "sistema_operacional": "Android 11",
-      "conectividade": "4G LTE, Wi-Fi 6, Bluetooth 5.0",
-      "cores_disponiveis": ["Preto", "Branco", "Azul"]
-    },
-    "avaliacoes": [
+    "data_publicacao": "2023-10-16",
+    "conteudo": "Explorar a culinária de diferentes regiões do mundo é uma das experiências mais saborosas e enriquecedoras que um amante da comida pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras culinárias favoritas e inspirá-lo a experimentar novos sabores...\n\n## A Magia das Cozinhas\n\nConhecer as cozinhas tradicionais permite experimentar pratos autênticos, saborear ingredientes locais e mergulhar na história da comida.\n\n![Imagem de Comida](imagem-comida.jpg)\n\n## Destinos Gastronômicos\n\nAlguns dos meus destinos gastronômicos favoritos incluem:\n\n- **Bangkok, Tailândia:** Os mercados de rua são um paraíso para os amantes de comida de rua.\n- **Paris, França:** Os croissants e queijos são uma experiência única.\n- **Marrakech, Marrocos:** Tajines e especiarias encantam o paladar.\n\n## Dicas Culinárias\n\n- Aprenda a cozinhar pratos locais com chefs locais.\n- Visite mercados e feiras para ingredientes frescos e autênticos.\n- Mantenha um diário de degustação para recordar suas experiências.\n\n## Conclusão\n\nA gastronomia é uma paixão que todos deveriam explorar. Cada prato tem sua história para contar e seu sabor único para compartilhar.",
+    "tags": [
+      "Culinária",
+      "Turismo",
+      "Cultura"
+    ],
+    "comentarios": [
       {
-        "usuario": "João",
-        "classificacao": 4.5,
-        "comentario": "Este smartphone tem uma excelente câmera. Estou muito satisfeito!"
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-10-17",
+        "texto_comentario": "Adorei o artigo, João! As dicas gastronômicas são incríveis."
       },
       {
-        "usuario": "Maria",
-        "classificacao": 4.0,
-        "comentario": "Boa relação custo-benefício. Funciona muito bem para jogos."
-      },
-      {
-        "usuario": "Carlos",
-        "classificacao": 3.5,
-        "comentario": "A bateria poderia ser melhor, mas no geral é um bom aparelho."
+        "autor_comentario": "Antônio",
+        "email_comentario": "antonio@example.com",
+        "data_comentario": "2023-10-18",
+        "texto_comentario": "Estou ansioso para experimentar a culinária tailandesa. Obrigado pelas recomendações!"
       }
     ],
-    "garantia": "1 ano",
-    "frete_gratis": true,
-    "data_lancamento": "2023-10-15",
-    "url_produto": "https://exemplo.com/produto/smartphone-xyz",
-    "categoria": "Tecnologia",
-    "numero_visualizacoes": 1200
+    "artigos_relacionados": [
+      {
+        "titulo": "Explorando Vinhos do Mundo: Degustações e Viagens Enológicas",
+        "autor": "André",
+        "data_publicacao": "2023-10-15",
+        "resumo": "Viaje pelos vinhedos e descubra os segredos do vinho em diferentes regiões."
+      }
+    ],
+    "categoria": "Gastronomia",
+    "visualizacoes": 2800,
+    "tempo_leitura": "10 minutos",
+    "idioma": "Português",
+    "numero_palavras": 1600,
+    "autor_foto": "joaochef.jpg",
+    "imagem_destaque": "https://www.shutterstock.com/image-photo/assortment-various-barbecue-vegan-food-260nw-1738904081.jpg",
+    "url_compartilhamento": "https://seusite.com/artigo/789",
+    "fonte_referencia": "https://exemplo.com/culinaria-referencia"
   }
   response.send(json);
 })
 
-app.get('/teste3', (request, response) => {
+app.get('/ClientRender', (request, response) => {
   const json = {
-    "livro": {
-      "titulo": "O Mistério da Floresta",
-      "autor": "Ana Silva",
-      "genero": "Mistério",
-      "ano_publicacao": 2022,
-      "sinopse": "Um thriller de mistério que se desenrola em uma floresta sombria, onde segredos antigos aguardam para serem descobertos."
+    "titulo": "A Exploração do Universo: Descobrindo Segredos Cósmicos",
+    "subtitulo": "Uma Jornada Científica nas Profundezas do Espaço",
+    "autor": {
+      "nome": "Dr. Maria Pereira",
+      "email": "mariapereira@example.com",
+      "perfil_social": {
+        "twitter": "mariapereira",
+        "linkedin": "mariapereira"
+      }
     },
-    "editora": "Livros Fantásticos",
-    "avaliacoes": [
+    "data_publicacao": "2023-10-20",
+    "conteudo": "A exploração do universo é uma das atividades científicas mais emocionantes e desafiadoras que a humanidade já empreendeu. Neste artigo, vou compartilhar algumas das descobertas cósmicas mais fascinantes e inspirá-lo a mergulhar nas profundezas do espaço...\n\n## Os Segredos do Cosmos\n\nExplorar o universo nos permite descobrir segredos cósmicos, desde buracos negros até a formação de estrelas e galáxias.\n\n![Imagem do Espaço](imagem-espaco.jpg)\n\n## Destinos Cósmicos\n\nAlguns dos nossos destinos cósmicos favoritos incluem:\n\n- **Marte:** O Planeta Vermelho tem sido o foco de inúmeras missões espaciais em busca de vida.\n- **Nebulosa de Orion:** Uma nuvem de gás e poeira que abriga a formação de estrelas.\n- **Juno, a Sonda Espacial:** Que está estudando Júpiter de perto.\n\n## Avanços Científicos\n\n- Telescópios espaciais têm revolucionado nossa compreensão do cosmos.\n- Sondas espaciais estão coletando dados vitais em mundos distantes.\n- A exploração espacial está abrindo portas para o futuro da humanidade.\n\n## Conclusão\n\nA exploração do universo é uma jornada que continua a nos surpreender e nos inspirar. Cada descoberta cósmica nos aproxima de entender o vasto espaço que nos rodeia.",
+    "tags": [
+      "Astronomia",
+      "Ciência",
+      "Exploração Espacial"
+    ],
+    "comentarios": [
       {
-        "leitor": "Mariana",
-        "classificacao": 4.0,
-        "comentario": "A trama é envolvente, não consegui parar de ler!"
+        "autor_comentario": "Carlos",
+        "email_comentario": "carlos@example.com",
+        "data_comentario": "2023-10-21",
+        "texto_comentario": "As descobertas espaciais são verdadeiramente incríveis, Maria!"
       },
       {
-        "leitor": "Paulo",
-        "classificacao": 4.5,
-        "comentario": "Intrigante e bem escrito. Recomendo."
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-10-22",
+        "texto_comentario": "A exploração do espaço é uma fonte inesgotável de conhecimento."
+      },
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-10-23",
+        "texto_comentario": "A ciência espacial nos leva a lugares inimagináveis. Obrigado por compartilhar, Maria!"
+      },
+      {
+        "autor_comentario": "Mariana",
+        "email_comentario": "mariana@example.com",
+        "data_comentario": "2023-10-24",
+        "texto_comentario": "Astronomia é a busca pela compreensão do cosmos. Ótimo artigo!"
       }
     ],
-    "paginas": 320,
+    "artigos_relacionados": [
+      {
+        "titulo": "Explorando os Oceanos Profundos: Maravilhas Subaquáticas",
+        "autor": "Luís",
+        "data_publicacao": "2023-10-19",
+        "resumo": "Descubra os segredos ocultos dos oceanos e suas criaturas misteriosas."
+      },
+      {
+        "titulo": "O Futuro da Medicina: Avanços e Inovações",
+        "autor": "Dr. Paulo",
+        "data_publicacao": "2023-10-18",
+        "resumo": "Explore as últimas inovações médicas que estão transformando a saúde."
+      },
+      {
+        "titulo": "Inteligência Artificial: Os Avanços de 2023",
+        "autor": "Isabel",
+        "data_publicacao": "2023-10-17",
+        "resumo": "Um mergulho nos avanços mais recentes em inteligência artificial."
+      }
+    ],
+    "categoria": "Astronomia",
+    "visualizacoes": 4500,
+    "tempo_leitura": "15 minutos",
     "idioma": "Português",
-    "capa_livro": "misterio-floresta.jpg"
+    "numero_palavras": 2200,
+    "autor_foto": "mariapereira.jpg",
+    "imagem_destaque": "https://i.pinimg.com/1200x/ee/7e/40/ee7e409dba51773f05b7b22661a69a7c.jpg",
+    "url_compartilhamento": "https://seusite.com/artigo/999",
+    "fonte_referencia": "https://exemplo.com/astronomia-referencia"
   }
   response.send(json);
 })
