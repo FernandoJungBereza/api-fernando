@@ -1,380 +1,367 @@
 [
-    {
-        "id": 1,
-        "titulo": "#1 - A Magia das Cozinhas do Mundo",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
+  {
+    "id": 1,
+    "titulo": "#1 - A Magia das Cozinhas do Mundo: Descobrindo Sabores Autênticos",
+    "subtitulo": "Uma Jornada Gastronômica por Culturas Diversas",
+    "autor": {
+      "nome": "Isabella Ferreira",
+      "email": "isabellaferreira@example.com",
+      "perfil_social": {
+        "twitter": "isabellaferreira",
+        "linkedin": "isabellaferreira"
+      }
+    },
+    "data_publicacao": "2023-11-20",
+    "conteudo": "Explorar a diversidade culinária do mundo é uma aventura inigualável. Neste artigo, vamos viajar pelos sabores autênticos de diferentes culturas...\n\n## Delícias Gastronômicas\n\nCada país oferece uma rica tapeçaria de pratos tradicionais e iguarias que refletem sua história e tradições.\n\n![Imagem de Comida](imagem-comida.jpg)\n\n## Destinos Gastronômicos Favoritos\n\nAlguns dos nossos destinos favoritos para descobrir novos sabores incluem:\n\n- **Bangkok, Tailândia:** Experimente o equilíbrio perfeito de sabores agridoces e picantes.\n- **Oaxaca, México:** Conheça os segredos da autêntica cozinha mexicana.\n- **Paris, França:** Desfrute de pães crocantes e queijos saborosos nas ruas parisienses.\n\n## Dicas para Explorar a Culinária Local\n\n- Participe de aulas de culinária para aprender a fazer pratos tradicionais.\n- Visite mercados locais e prove ingredientes frescos e exóticos.\n- Converse com chefs locais para entender as técnicas e histórias por trás dos pratos.\n\n## Conclusão\n\nA comida é uma linguagem universal que nos conecta com pessoas de todo o mundo. Cada refeição é uma oportunidade de explorar, aprender e apreciar as culturas que tornam nosso planeta tão diversificado.",
+    "tags": [
+      "Viagens",
+      "Culinária",
+      "Cultura"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-11-21",
+        "texto_comentario": "Adoro experimentar comidas de diferentes lugares. Ótimo artigo, Isabella!"
       },
       {
-        "id": 2,
-        "titulo": "#2 - A Magia das Cozinhas do Mundo",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 3,
-      "titulo": "#3 - A Magia das Cozinhas do Mundo",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-11-22",
+        "texto_comentario": "A Tailândia é o paraíso dos sabores. Obrigada por compartilhar, Isabella!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 4,
-      "titulo": "#4 - A Magia das Cozinhas do Mundo",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+      {
+        "autor_comentario": "Ricardo",
+        "email_comentario": "ricardo@example.com",
+        "data_comentario": "2023-11-23",
+        "texto_comentario": "Paris é um sonho para os amantes da gastronomia. Parabéns pelo artigo!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "A Arte da Degustação de Vinhos: Explorando Vinícolas ao Redor do Mundo",
+        "autor": "Joana",
+        "data_publicacao": "2023-11-19",
+        "resumo": "Descubra os segredos da degustação de vinhos e as melhores vinícolas para visitar.",
+        "tags": [
+          "Vinhos",
+          "Enologia",
+          "Gastronomia"
+        ]
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "titulo": "Culinária de Rua: Sabores Autênticos em Barraquinhas e Food Trucks",
+        "autor": "João",
+        "data_publicacao": "2023-11-18",
+        "resumo": "Explore a deliciosa culinária de rua em diferentes partes do mundo.",
+        "tags": [
+          "Culinária de Rua",
+          "Comida de Rua",
+          "Gastronomia"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3600,
+    "tempo_leitura": "15 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2000,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+
+  {
+    "id": 2,
+    "titulo": "#2 - Sabores do Oriente: Uma Viagem Gastronômica pelo Extremo Oriente",
+    "subtitulo": "Explorando os Deliciosos Segredos da Ásia",
+    "autor": {
+      "nome": "Hiroshi Yamamoto",
+      "email": "hiroshiyamamoto@example.com",
+      "perfil_social": {
+        "twitter": "hiroshiyamamoto",
+        "linkedin": "hiroshiyamamoto"
+      }
     },
-    {
-      "id": 5,
-      "titulo": "#5 - A Magia das Cozinhas do Mundo",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-11-25",
+    "conteudo": "A Ásia é um continente repleto de diversidade culinária. Neste artigo, convidamos você para uma viagem gastronômica pelo Extremo Oriente, onde os sabores são autênticos e as experiências culinárias são inesquecíveis...\n\n## Cozinha Asiática\n\nA Ásia é o lar de algumas das cozinhas mais intrigantes do mundo, incluindo a chinesa, japonesa, coreana e tailandesa.\n\n![Imagem de Comida Oriental](imagem-comida-oriental.jpg)\n\n## Destinos Culinários Favoritos\n\nAlguns dos nossos destinos favoritos para explorar os sabores asiáticos incluem:\n\n- **Pequim, China:** Experimente o famoso pato de Pequim e o dim sum.\n- **Tóquio, Japão:** Descubra o sushi fresco e a culinária kaiseki.\n- **Bangcoc, Tailândia:** Saboreie os pratos de rua e as iguarias tailandesas.\n\n## Dicas para Apreciar a Culinária Asiática\n\n- Visite os mercados noturnos para experimentar uma variedade de pratos locais.\n- Participe de aulas de culinária para aprender a preparar pratos tradicionais.\n- Não deixe de experimentar a comida de rua, onde os sabores são autênticos e deliciosos.\n\n## Conclusão\n\nA comida asiática é uma celebração de sabores, ingredientes frescos e tradições culinárias. Cada refeição é uma jornada sensorial única.",
+    "tags": ["Viagens", "Culinária Asiática", "Cultura"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-11-26",
+        "texto_comentario": "Amo a culinária asiática, Hiroshi! Seu artigo me deu vontade de viajar para lá."
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-11-27",
+        "texto_comentario": "A culinária japonesa é uma das minhas favoritas. Ótimo trabalho, Hiroshi!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-11-28",
+        "texto_comentario": "As especiarias tailandesas são incríveis. Obrigado por compartilhar, Hiroshi!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Culinária Indiana: Uma Explosão de Sabores e Cores",
+        "autor": "Priya",
+        "data_publicacao": "2023-11-24",
+        "resumo": "Explore as complexas combinações de sabores da culinária indiana.",
+        "tags": ["Culinária Indiana", "Especiarias", "Cultura"]
+      },
+      {
+        "titulo": "Comida de Rua na Ásia: Uma Aventura Gastronômica em Cada Esquina",
+        "autor": "Raj",
+        "data_publicacao": "2023-11-23",
+        "resumo": "Descubra as delícias da comida de rua em cidades asiáticas movimentadas.",
+        "tags": ["Comida de Rua", "Viagem", "Culinária"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3800,
+    "tempo_leitura": "14 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2100,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+
+  {
+    "id": 3,
+    "titulo": "#3 - A Arte do Churrasco: Sabores da América do Sul",
+    "subtitulo": "Explorando a Tradição da Carne Assada",
+    "autor": {
+      "nome": "José Garcia",
+      "email": "josegarcia@example.com",
+      "perfil_social": {
+        "twitter": "josegarcia",
+        "linkedin": "josegarcia"
+      }
     },
-    {
-      "id": 6,
-      "titulo": "#6 - A Magia das Cozinhas do Mundo",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-11-30",
+    "conteudo": "A América do Sul é famosa por sua tradição de churrasco, e este artigo leva você a uma jornada pela arte da carne assada. Descubra os sabores únicos desta região...\n\n## Churrasco Sul-Americano\n\nO churrasco sul-americano é uma celebração da carne, temperada com técnicas tradicionais e fogo aberto.\n\n![Imagem de Churrasco](imagem-churrasco.jpg)\n\n## Destinos de Churrasco Favoritos\n\nAlguns dos nossos destinos favoritos para experimentar o churrasco sul-americano incluem:\n\n- **Buenos Aires, Argentina:** Conheça o famoso bife de chorizo e as parrillas da cidade.\n- **São Paulo, Brasil:** Explore as churrascarias e os cortes de carne suculentos.\n- **Montevidéu, Uruguai:** Descubra a tradição do chivito e das carnes grelhadas.\n\n## Dicas para Apreciar o Churrasco\n\n- Acompanhe a carne com chimichurri, molho tradicional sul-americano.\n- Visite mercados locais e feiras de alimentos para experimentar variedades de carne.\n- Converse com mestres churrasqueiros locais para aprender as técnicas de grelhar carne com perfeição.\n\n## Conclusão\n\nO churrasco sul-americano é uma experiência gastronômica única que combina tradição e sabor. Cada churrasco é uma celebração da carne e da amizade.",
+    "tags": ["Viagens", "Churrasco", "Cultura Sul-Americana"],
+    "comentarios": [
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-01",
+        "texto_comentario": "O churrasco argentino é lendário. Ótimo artigo, José!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    }
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-12-02",
+        "texto_comentario": "Amo um bom churrasco brasileiro. Parabéns pelo artigo!"
+      },
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-12-03",
+        "texto_comentario": "O Uruguai também sabe fazer churrasco. Obrigada por compartilhar, José!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Gastronomia Peruana: Uma Viagem pelos Sabores Andinos",
+        "autor": "Luisa",
+        "data_publicacao": "2023-11-29",
+        "resumo": "Explore a rica culinária peruana e seus pratos tradicionais.",
+        "tags": ["Gastronomia Peruana", "Culinária Andina", "Viagem"]
+      },
+      {
+        "titulo": "Culinária Brasileira: Sabores Tropicais e Diversidade Regional",
+        "autor": "Rafael",
+        "data_publicacao": "2023-11-28",
+        "resumo": "Descubra os segredos da culinária brasileira, do açaí à feijoada.",
+        "tags": ["Culinária Brasileira", "Brasil", "Gastronomia"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 4100,
+    "tempo_leitura": "13 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2200,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+
+  {
+    "id": 4,
+    "titulo": "#4 - A Culinária Mediterrânea: Sabores à Beira do Mar",
+    "subtitulo": "Explorando as Delícias dos Países Mediterrâneos",
+    "autor": {
+      "nome": "Sofia Lopez",
+      "email": "sofialopez@example.com",
+      "perfil_social": {
+        "twitter": "sofialopez",
+        "linkedin": "sofialopez"
+      }
+    },
+    "data_publicacao": "2023-12-05",
+    "conteudo": "A região do Mediterrâneo é conhecida por sua dieta saudável e saborosa. Neste artigo, convidamos você a explorar as delícias dos países à beira do mar...\n\n## Culinária Mediterrânea\n\nA dieta mediterrânea é rica em azeite de oliva, frutas, legumes frescos e peixes.\n\n![Imagem de Culinária Mediterrânea](imagem-culinaria-mediterranea.jpg)\n\n## Destinos Gastronômicos Favoritos\n\nAlguns dos nossos destinos favoritos para apreciar a culinária mediterrânea incluem:\n\n- **Atenas, Grécia:** Desfrute de souvlaki e moussaka em tabernas locais.\n- **Roma, Itália:** Saboreie massas frescas, pizzas e gelatos autênticos.\n- **Barcelona, Espanha:** Explore os mercados de alimentos e prove tapas deliciosas.\n\n## Dicas para uma Dieta Mediterrânea\n\n- Cozinhe com azeite de oliva extra virgem para obter benefícios para a saúde.\n- Incremente suas refeições com ervas aromáticas como manjericão, alecrim e orégano.\n- Mantenha uma dieta equilibrada com peixes, legumes e frutas.\n\n## Conclusão\n\nA culinária mediterrânea não apenas agrada ao paladar, mas também promove a saúde. Cada refeição à beira do mar é uma celebração do sabor e do bem-estar.",
+    "tags": ["Viagens", "Culinária Mediterrânea", "Dieta Saudável"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-12-06",
+        "texto_comentario": "A dieta mediterrânea é incrível. Seu artigo me deu água na boca, Sofia!"
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-12-07",
+        "texto_comentario": "Comer como um italiano em Roma é um sonho. Ótimo trabalho, Sofia!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-08",
+        "texto_comentario": "Tapas em Barcelona são uma festa para o paladar. Obrigada por compartilhar, Sofia!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Culinária Grega: Uma Jornada Pelas Ternas Especialidades Helênicas",
+        "autor": "Nikos",
+        "data_publicacao": "2023-12-04",
+        "resumo": "Explore a rica culinária grega e seus pratos tradicionais.",
+        "tags": ["Culinária Grega", "Grécia", "Comida Tradicional"]
+      },
+      {
+        "titulo": "A Dieta do Mediterrâneo: Saúde e Sabor em Cada Prato",
+        "autor": "Elena",
+        "data_publicacao": "2023-12-03",
+        "resumo": "Descubra os benefícios para a saúde da dieta mediterrânea.",
+        "tags": ["Dieta Mediterrânea", "Saúde", "Nutrição"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3200,
+    "tempo_leitura": "16 minutos",
+    "idioma": "Português",
+    "numero_palavras": 1900,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+  
+  {
+    "id": 5,
+    "titulo": "#5 - A Magia dos Sabores Exóticos: Uma Jornada Gastronômica",
+    "subtitulo": "Explorando os Pratos Mais Exóticos do Mundo",
+    "autor": {
+      "nome": "Carlos Mendes",
+      "email": "carlosmendes@example.com",
+      "perfil_social": {
+        "twitter": "carlosmendes",
+        "linkedin": "carlosmendes"
+      }
+    },
+    "data_publicacao": "2023-12-10",
+    "conteudo": "A culinária exótica é uma porta de entrada para sabores incríveis. Neste artigo, embarque em uma jornada gastronômica e descubra pratos únicos e fascinantes de diferentes partes do mundo...\n\n## Sabores Exóticos\n\nExplore sabores que desafiam as expectativas e ampliam seus horizontes gastronômicos.\n\n![Imagem de Comida Exótica](imagem-comida-exotica.jpg)\n\n## Destinos Gastronômicos Favoritos\n\nAlguns dos nossos destinos favoritos para provar pratos exóticos incluem:\n\n- **Bangkok, Tailândia:** Experimente insetos comestíveis e curry verde tailandês.\n- **Cidade do México, México:** Aventure-se com tacos de chapulines e mole poblano.\n- **Pequim, China:** Delicie-se com patas de galinha e peixes vivos.\n\n## Dicas para Apreciar Pratos Exóticos\n\n- Mantenha a mente aberta e disposta a experimentar novos sabores.\n- Converse com os locais para entender a história e o significado dos pratos exóticos.\n- Prepare-se para uma experiência culinária que você nunca esquecerá.\n\n## Conclusão\n\nA culinária exótica oferece uma oportunidade única de explorar e entender diferentes culturas. Cada prato é uma história para contar.",
+    "tags": ["Viagens", "Culinária Exótica", "Cultura Alimentar"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-12-11",
+        "texto_comentario": "Incrível, Carlos! Estou curiosa para experimentar alguns desses pratos exóticos."
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-12-12",
+        "texto_comentario": "A comida de rua no México é uma aventura. Parabéns pelo artigo!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-13",
+        "texto_comentario": "Pratos exóticos são uma janela para o mundo. Obrigada por compartilhar, Carlos!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Comida de Rua no Sudeste Asiático: Uma Aventura para o Paladar",
+        "autor": "Raj",
+        "data_publicacao": "2023-12-09",
+        "resumo": "Explore a deliciosa comida de rua em países do Sudeste Asiático.",
+        "tags": ["Comida de Rua", "Viagem", "Sudeste Asiático"]
+      },
+      {
+        "titulo": "Comida de Rua no México: Tacos, Tamales e Muito Mais",
+        "autor": "Lupita",
+        "data_publicacao": "2023-12-08",
+        "resumo": "Descubra as delícias da comida de rua mexicana, dos tacos às tlayudas.",
+        "tags": ["Comida de Rua", "México", "Tacos"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2900,
+    "tempo_leitura": "18 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2400,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+  
+  {
+    "id": 6,
+    "titulo": "#6 - A Deliciosa Arte da Confeitaria: Doces e Sobremesas pelo Mundo",
+    "subtitulo": "Uma Jornada Açucarada pelas Melhores Sobremesas",
+    "autor": {
+      "nome": "Lara Alves",
+      "email": "laraalves@example.com",
+      "perfil_social": {
+        "twitter": "laraalves",
+        "linkedin": "laraalves"
+      }
+    },
+    "data_publicacao": "2023-12-15",
+    "conteudo": "Sobremesas são o toque doce no final de uma refeição. Neste artigo, exploramos algumas das sobremesas mais incríveis de diferentes partes do mundo, que são verdadeiras obras de arte açucaradas...\n\n## Arte da Confeitaria\n\nA confeitaria é uma forma de arte que transforma ingredientes simples em criações deliciosas e bonitas.\n\n![Imagem de Sobremesas](imagem-sobremesas.jpg)\n\n## Sobremesas Favoritas\n\nAlgumas das nossas sobremesas favoritas incluem:\n\n- **Tiramisù, Itália:** Um clássico italiano com camadas de café e mascarpone.\n- **Macarons, França:** Coloridos e crocantes, são um deleite visual e gustativo.\n- **Mochi, Japão:** Bolinhos de arroz recheados com sabores tradicionais.\n\n## Dicas para os Amantes de Doces\n\n- Explore confeitarias locais para descobrir as melhores sobremesas da região.\n- Aprenda a fazer suas próprias sobremesas em aulas de confeitaria.\n- Experimente novos sabores e texturas, mesmo que pareçam diferentes.\n\n## Conclusão\n\nSobremesas são uma alegria universal. Cada doce revela a criatividade e a cultura de um lugar.",
+    "tags": ["Viagens", "Confeitaria", "Sobremesas"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-12-16",
+        "texto_comentario": "Amo sobremesas! Seu artigo me deu muita fome, Lara."
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-12-17",
+        "texto_comentario": "Os macarons franceses são divinos. Ótimo trabalho, Lara!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-18",
+        "texto_comentario": "As sobremesas japonesas são únicas. Obrigada por compartilhar, Lara!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Chocolate: Da Amazônia ao Mundo - Uma História de Sabor",
+        "autor": "Ricardo",
+        "data_publicacao": "2023-12-14",
+        "resumo": "Explore a jornada do cacau, desde as florestas amazônicas até as barras de chocolate.",
+        "tags": ["Chocolate", "Cacau", "História do Chocolate"]
+      },
+      {
+        "titulo": "Pâtisserie Francesa: A Arte da Confeitaria de Paris",
+        "autor": "Sophie",
+        "data_publicacao": "2023-12-13",
+        "resumo": "Descubra os segredos da confeitaria francesa, das éclairs aos croissants.",
+        "tags": ["Pâtisserie", "Confeitaria Francesa", "Paris"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2800,
+    "tempo_leitura": "17 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2300,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  }
 ]

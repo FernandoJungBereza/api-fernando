@@ -1,380 +1,422 @@
 [
-    {
-        "id": 1,
-        "titulo": "#1 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
+  {
+    "id": 1,
+    "titulo": "#1 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
+    "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
+    "autor": {
+      "nome": "Maria Silva",
+      "email": "mariasilva@example.com",
+      "perfil_social": {
+        "twitter": "mariasilva",
+        "linkedin": "mariasilva"
+      }
+    },
+    "data_publicacao": "2023-09-15",
+    "conteudo": "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
+    "tags": [
+      "Viagens",
+      "Turismo",
+      "Cultura"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "João",
+        "email_comentario": "joao@example.com",
+        "data_comentario": "2023-09-16",
+        "texto_comentario": "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
       },
       {
-        "id": 2,
-        "titulo": "#2 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 3,
-      "titulo": "#3 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-09-17",
+        "texto_comentario": "Santorini é incrível, concordo totalmente!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 4,
-      "titulo": "#4 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-09-18",
+        "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Aventuras na Natureza: Trilhas e Explorações",
+        "autor": "Joana",
+        "data_publicacao": "2023-09-14",
+        "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
+        "tags": [
+          "Aventuras",
+          "Natureza",
+          "Trilhas"
+        ]
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "titulo": "Culinária Internacional: Uma Viagem de Sabores",
+        "autor": "Luís",
+        "data_publicacao": "2023-09-13",
+        "resumo": "Explore a diversidade culinária ao redor do mundo.",
+        "tags": [
+          "Culinária",
+          "Viagem",
+          "Gastronomia"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2500,
+    "tempo_leitura": "12 minutos",
+    "idioma": "Português",
+    "numero_palavras": 1800,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "#2 - A Exploração do Universo: Em Busca de Vida Extraterrestre",
+    "subtitulo": "A Caça por Sinais de Vida Além da Terra",
+    "autor": {
+      "nome": "Isabel Rodrigues",
+      "email": "isabelrodrigues@example.com",
+      "perfil_social": {
+        "twitter": "isabelrodrigues",
+        "linkedin": "isabelrodrigues"
+      }
     },
-    {
-      "id": 5,
-      "titulo": "#5 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-10-15",
+    "conteudo": "A busca por vida extraterrestre é um dos empreendimentos mais emocionantes da astronomia. Neste artigo, exploraremos os esforços para encontrar sinais de vida além da Terra e os mistérios que isso envolve...\n\n## Em Busca de Sinais\n\nAstrônomos e cientistas procuram por pistas de vida em exoplanetas e lugares remotos do cosmos.\n\n![Imagem de Vida Extraterrestre](imagem-vida-extraterrestre.jpg)\n\n## Missões Espaciais\n\n- A missão Kepler da NASA descobriu milhares de exoplanetas potencialmente habitáveis.\n- Os telescópios espaciais Hubble e James Webb investigam atmosferas planetárias.\n- Projetos de escuta cósmica buscam por comunicações interestelares.\n\n## Desafios Cósmicos\n\n- As distâncias interestelares são imensas, tornando as missões demoradas.\n- A busca por assinaturas de vida requer equipamentos altamente sensíveis.\n- A pergunta fundamental: estamos sozinhos no universo?\n\n## Conclusão\n\nA busca por vida extraterrestre continua a ser uma das grandes questões da humanidade. Espero que este artigo o inspire a se envolver na busca por respostas cósmicas.",
+    "tags": [
+      "Vida Extraterrestre",
+      "Astronomia",
+      "Pesquisa Espacial"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Lucas",
+        "email_comentario": "lucas@example.com",
+        "data_comentario": "2023-10-16",
+        "texto_comentario": "A descoberta de vida além da Terra seria revolucionária. Ótimo artigo, Isabel!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "autor_comentario": "Mariana",
+        "email_comentario": "mariana@example.com",
+        "data_comentario": "2023-10-17",
+        "texto_comentario": "Adoro tudo relacionado à vida extraterrestre. Este artigo é fascinante!"
+      },
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-10-18",
+        "texto_comentario": "Excelente resumo dos desafios da pesquisa por vida extraterrestre."
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Explorando o Espaço Profundo: Além de Nosso Sistema Solar",
+        "autor": "Carlos",
+        "data_publicacao": "2023-10-14",
+        "resumo": "Uma jornada pelas missões espaciais que exploram além de nosso sistema solar.",
+        "tags": [
+          "Exploração Espacial",
+          "Astronomia",
+          "Sistema Solar"
+        ]
+      },
+      {
+        "titulo": "Astronomia Amadora: Observando o Céu Noturno",
+        "autor": "João",
+        "data_publicacao": "2023-10-13",
+        "resumo": "Inicie sua jornada de observação do céu com dicas de astronomia amadora.",
+        "tags": [
+          "Astronomia",
+          "Observação",
+          "Céu Noturno"
+        ]
+      }
+    ],
+    "categoria": "Astronomia",
+    "visualizacoes": 2900,
+    "tempo_leitura": "14 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2400,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "#3 - A Exploração do Universo: Os Mistérios dos Buracos Negros",
+    "subtitulo": "Jornada ao Coração da Gravidade Extrema",
+    "autor": {
+      "nome": "Rafael Fernandes",
+      "email": "rafaelfernandes@example.com",
+      "perfil_social": {
+        "twitter": "rafaelfernandes",
+        "linkedin": "rafaelfernandes"
+      }
     },
-    {
-      "id": 6,
-      "titulo": "#6 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-10-25",
+    "conteudo": "Os buracos negros são objetos celestes fascinantes e enigmáticos que desafiam nossa compreensão da física. Neste artigo, exploraremos os mistérios por trás dessas entidades cósmicas...\n\n## Monstros Gravitacionais\n\nBuracos negros são regiões do espaço onde a gravidade é tão intensa que nada pode escapar, nem mesmo a luz.\n\n![Imagem de Buraco Negro](imagem-buraco-negro.jpg)\n\n## Tipos de Buracos Negros\n\n- Buracos negros estelares se formam a partir de colapsos de estrelas maciças.\n- Buracos negros supermassivos residem nos centros de galáxias e têm bilhões de vezes a massa do Sol.\n- Buracos negros primordiais são teorias sobre buracos negros formados nos primórdios do universo.\n\n## Pesquisa Atual\n\n- Observações com telescópios de raios-X e interferometria gravitacional fornecem insights sobre buracos negros.\n- Event Horizon Telescope capturou a primeira imagem direta de um buraco negro em 2019.\n- Questões não resolvidas incluem a natureza da singularidade no centro dos buracos negros.\n\n## Conclusão\n\nOs buracos negros são verdadeiros enigmas cósmicos. A pesquisa contínua nos leva mais perto de desvendar seus segredos e entender o universo em que vivemos.",
+    "tags": [
+      "Buracos Negros",
+      "Astronomia",
+      "Física"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Larissa",
+        "email_comentario": "larissa@example.com",
+        "data_comentario": "2023-10-26",
+        "texto_comentario": "Buracos negros são tão fascinantes e assustadores. Ótimo artigo, Rafael!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    }
+      {
+        "autor_comentario": "Bruno",
+        "email_comentario": "bruno@example.com",
+        "data_comentario": "2023-10-27",
+        "texto_comentario": "A imagem do buraco negro foi um marco na astronomia. Parabéns pelo artigo!"
+      },
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-10-28",
+        "texto_comentario": "A física dos buracos negros é de outro mundo. Muito informativo!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Estrelas de Nêutrons: Os Irmãos Compactos dos Buracos Negros",
+        "autor": "Carla",
+        "data_publicacao": "2023-10-24",
+        "resumo": "Explore as estrelas de nêutrons e sua incrível densidade.",
+        "tags": [
+          "Estrelas de Nêutrons",
+          "Astronomia",
+          "Física"
+        ]
+      },
+      {
+        "titulo": "Astronomia Amadora: Observando o Céu Noturno",
+        "autor": "João",
+        "data_publicacao": "2023-10-23",
+        "resumo": "Inicie sua jornada de observação do céu com dicas de astronomia amadora.",
+        "tags": [
+          "Astronomia",
+          "Observação",
+          "Céu Noturno"
+        ]
+      }
+    ],
+    "categoria": "Astronomia",
+    "visualizacoes": 3100,
+    "tempo_leitura": "16 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2500,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "#4 - A Exploração do Universo: A Conquista de Marte",
+    "subtitulo": "A Próxima Fronteira da Exploração Espacial",
+    "autor": {
+      "nome": "Joana Silva",
+      "email": "joanasilva@example.com",
+      "perfil_social": {
+        "twitter": "joanasilva",
+        "linkedin": "joanasilva"
+      }
+    },
+    "data_publicacao": "2023-10-30",
+    "conteudo": "Marte, o Planeta Vermelho, sempre cativou a imaginação da humanidade. Neste artigo, exploraremos a emocionante busca por conquistar Marte e os desafios envolvidos...\n\n## A Fascinação por Marte\n\nMarte é um planeta misterioso que pode abrigar respostas sobre a possibilidade de vida fora da Terra.\n\n![Imagem de Marte](imagem-marte.jpg)\n\n## Missões a Marte\n\n- Missões da NASA, como o Rover Perseverance, investigam a geologia e a possibilidade de vida passada em Marte.\n- Empresas privadas, como SpaceX, têm planos ambiciosos para colonizar o planeta.\n- Desafios incluem radiação, falta de água e atmosfera fina.\n\n## Descobertas Marcianas\n\n- Descobertas recentes de água líquida sob a superfície aumentam a esperança de vida passada ou presente.\n- A busca por micróbios marcianos é uma prioridade nas futuras missões.\n- Marte pode servir como um trampolim para exploração mais distante do espaço.\n\n## Conclusão\n\nA conquista de Marte é um dos objetivos mais emocionantes da exploração espacial. À medida que as missões continuam, podemos estar à beira de descobertas incríveis sobre nosso vizinho cósmico.",
+    "tags": [
+      "Marte",
+      "Exploração Espacial",
+      "Astronomia"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-10-31",
+        "texto_comentario": "Marte é o próximo passo na exploração espacial. Ótimo artigo, Joana!"
+      },
+      {
+        "autor_comentario": "Carla",
+        "email_comentario": "carla@example.com",
+        "data_comentario": "2023-11-01",
+        "texto_comentario": "Fico ansiosa pelas descobertas em Marte. Excelente resumo, Joana!"
+      },
+      {
+        "autor_comentario": "Ricardo",
+        "email_comentario": "ricardo@example.com",
+        "data_comentario": "2023-11-02",
+        "texto_comentario": "Os desafios de Marte são incríveis. Parabéns pelo artigo!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Exploração Lunar: A Preparação para Marte",
+        "autor": "Lucas",
+        "data_publicacao": "2023-10-29",
+        "resumo": "Saiba como a exploração lunar está pavimentando o caminho para Marte.",
+        "tags": [
+          "Exploração Lunar",
+          "Marte",
+          "Espaço"
+        ]
+      },
+      {
+        "titulo": "Astronomia Amadora: Observando o Céu Noturno",
+        "autor": "João",
+        "data_publicacao": "2023-10-28",
+        "resumo": "Inicie sua jornada de observação do céu com dicas de astronomia amadora.",
+        "tags": [
+          "Astronomia",
+          "Observação",
+          "Céu Noturno"
+        ]
+      }
+    ],
+    "categoria": "Exploração Espacial",
+    "visualizacoes": 3400,
+    "tempo_leitura": "18 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2600,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "#5 - A Exploração do Universo: Viagem ao Centro da Galáxia",
+    "subtitulo": "Explorando o Núcleo Galáctico e Seus Mistérios",
+    "autor": {
+      "nome": "André Santos",
+      "email": "andresantos@example.com",
+      "perfil_social": {
+        "twitter": "andresantos",
+        "linkedin": "andresantos"
+      }
+    },
+    "data_publicacao": "2023-11-05",
+    "conteudo": "Viajar ao centro da nossa galáxia é uma jornada fascinante e desafiadora. Neste artigo, vamos explorar os mistérios do núcleo galáctico e o que os astrônomos estão descobrindo...\n\n## O Núcleo Galáctico\n\nO centro da Via Láctea abriga um buraco negro supermassivo chamado Sagitário A*.\n\n![Imagem do Centro Galáctico](imagem-centro-galactico.jpg)\n\n## Missões e Observações\n\n- Telescópios espaciais como o Hubble estudam estrelas em órbita do buraco negro.\n- Missões futuras, como a Missão IXPE da NASA, investigarão raios-X do centro galáctico.\n- Estudar o núcleo galáctico ajuda a entender a formação e evolução de galáxias.\n\n## Desafios Cósmicos\n\n- O centro galáctico é repleto de radiação e campos gravitacionais intensos.\n- Compreender as condições extremas pode fornecer insights sobre o universo como um todo.\n- Muitos mistérios ainda aguardam ser desvendados no centro da Via Láctea.\n\n## Conclusão\n\nA viagem ao centro da galáxia é uma exploração científica emocionante. À medida que a tecnologia avança, esperamos revelar os segredos cósmicos que o centro galáctico guarda.",
+    "tags": [
+      "Galáxia",
+      "Núcleo Galáctico",
+      "Astronomia"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-11-06",
+        "texto_comentario": "O núcleo galáctico é um mistério intrigante. Ótimo artigo, André!"
+      },
+      {
+        "autor_comentario": "Carlos",
+        "email_comentario": "carlos@example.com",
+        "data_comentario": "2023-11-07",
+        "texto_comentario": "A exploração do núcleo galáctico é uma jornada corajosa. Parabéns pelo artigo!"
+      },
+      {
+        "autor_comentario": "Larissa",
+        "email_comentario": "larissa@example.com",
+        "data_comentario": "2023-11-08",
+        "texto_comentario": "Astronomia é incrível, e seu artigo é muito informativo."
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Buracos Negros: Os Devoradores de Estrelas",
+        "autor": "Rafael",
+        "data_publicacao": "2023-11-04",
+        "resumo": "Explore os buracos negros e seu papel na evolução das galáxias.",
+        "tags": [
+          "Buracos Negros",
+          "Galáxias",
+          "Astronomia"
+        ]
+      },
+      {
+        "titulo": "Astronomia Amadora: Observando o Céu Noturno",
+        "autor": "João",
+        "data_publicacao": "2023-11-03",
+        "resumo": "Inicie sua jornada de observação do céu com dicas de astronomia amadora.",
+        "tags": [
+          "Astronomia",
+          "Observação",
+          "Céu Noturno"
+        ]
+      }
+    ],
+    "categoria": "Astronomia",
+    "visualizacoes": 3200,
+    "tempo_leitura": "17 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2300,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "#6 - A Exploração do Universo: Os Segredos das Estrelas de Nêutrons",
+    "subtitulo": "Densidade Extrema e Poder Cósmico",
+    "autor": {
+      "nome": "Carla Rodrigues",
+      "email": "carlarodrigues@example.com",
+      "perfil_social": {
+        "twitter": "carlarodrigues",
+        "linkedin": "carlarodrigues"
+      }
+    },
+    "data_publicacao": "2023-11-10",
+    "conteudo": "As estrelas de nêutrons são objetos cósmicos incrivelmente densos e misteriosos. Neste artigo, exploraremos os segredos por trás dessas estrelas e seu papel no universo...\n\n## Densidade Extrema\n\nEstrelas de nêutrons são núcleos estelares remanescentes que colapsaram sob sua própria gravidade.\n\n![Imagem de Estrela de Nêutron](imagem-estrela-de-neutron.jpg)\n\n## Características Únicas\n\n- Elas têm a densidade de um núcleo atômico, mas são do tamanho de uma cidade.\n- Giram a uma taxa incrível, emitindo feixes de radiação que podemos detectar como pulsares.\n- São cruciais para a formação de elementos pesados no universo.\n\n## Estudo Atual\n\n- Observações de estrelas de nêutrons através de telescópios de raios-X revelam informações sobre sua composição.\n- Colisões de estrelas de nêutrons são eventos importantes para a astronomia de ondas gravitacionais.\n- O estudo das estrelas de nêutrons lança luz sobre a evolução estelar.\n\n## Conclusão\n\nAs estrelas de nêutrons são verdadeiras maravilhas cósmicas. À medida que continuamos a estudá-las, desvendamos os segredos das forças extremas que moldam o universo.",
+    "tags": [
+      "Estrelas de Nêutrons",
+      "Astronomia",
+      "Física"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Rafael",
+        "email_comentario": "rafael@example.com",
+        "data_comentario": "2023-11-11",
+        "texto_comentario": "Estrelas de nêutrons são incríveis. Parabéns pelo artigo, Carla!"
+      },
+      {
+        "autor_comentario": "Mariana",
+        "email_comentario": "mariana@example.com",
+        "data_comentario": "2023-11-12",
+        "texto_comentario": "A densidade dessas estrelas é surpreendente. Ótimo resumo!"
+      },
+      {
+        "autor_comentario": "Lucas",
+        "email_comentario": "lucas@example.com",
+        "data_comentario": "2023-11-13",
+        "texto_comentario": "A astronomia de estrelas de nêutrons é uma área emocionante."
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Buracos Negros: Os Devoradores de Estrelas",
+        "autor": "Rafael",
+        "data_publicacao": "2023-11-09",
+        "resumo": "Explore os buracos negros e seu papel na evolução das galáxias.",
+        "tags": [
+          "Buracos Negros",
+          "Galáxias",
+          "Astronomia"
+        ]
+      },
+      {
+        "titulo": "Astronomia Amadora: Observando o Céu Noturno",
+        "autor": "João",
+        "data_publicacao": "2023-11-08",
+        "resumo": "Inicie sua jornada de observação do céu com dicas de astronomia amadora.",
+        "tags": [
+          "Astronomia",
+          "Observação",
+          "Céu Noturno"
+        ]
+      }
+    ],
+    "categoria": "Astronomia",
+    "visualizacoes": 3600,
+    "tempo_leitura": "15 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2300,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p1/14484653-banner-de-desenho-animado-da-terra-planeta-no-universo-gratis-vetor.jpg"
+  }
 ]
