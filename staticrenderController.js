@@ -1,8 +1,8 @@
-const staticRenderService = require('./staticRenderService');
+const staticRenderService = require('./staticrenderService');
 const staticRenderController = require('express').Router();
 
 
- staticRenderController.get('/', async (request, response) => {
+staticRenderController.get('/', async (request, response) => {
     staticRenderRegisters = await staticRenderService.findAll();
     return response.json(staticRenderRegisters);
 });
