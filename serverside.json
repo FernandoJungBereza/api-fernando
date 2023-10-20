@@ -1,380 +1,423 @@
 [
-    {
-        "id": 1,
-        "titulo": "#1 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
+  {
+    "id": 1,
+    "titulo": "#1 - Viagens pelo Mundo: Descobrindo Novos Destinos",
+    "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
+    "autor": {
+      "nome": "Maria Silva",
+      "email": "mariasilva@example.com",
+      "perfil_social": {
+        "twitter": "mariasilva",
+        "linkedin": "mariasilva"
+      }
+    },
+    "data_publicacao": "2023-09-15",
+    "conteudo": "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
+    "tags": [
+      "Viagens",
+      "Turismo",
+      "Cultura"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "João",
+        "email_comentario": "joao@example.com",
+        "data_comentario": "2023-09-16",
+        "texto_comentario": "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
       },
       {
-        "id": 2,
-        "titulo": "#2 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-        "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-        "autor": {
-          "nome": "Maria Silva",
-          "email": "mariasilva@example.com",
-          "perfil_social": {
-            "twitter": "mariasilva",
-            "linkedin": "mariasilva"
-          }
-        },
-        "data_publicacao": "2023-09-15",
-        "conteudo":
-          "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-        "tags": ["Viagens", "Turismo", "Cultura"],
-        "comentarios": [
-          {
-            "autor_comentario": "João",
-            "email_comentario": "joao@example.com",
-            "data_comentario": "2023-09-16",
-            "texto_comentario":
-              "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-          },
-          {
-            "autor_comentario": "Ana",
-            "email_comentario": "ana@example.com",
-            "data_comentario": "2023-09-17",
-            "texto_comentario": "Santorini é incrível, concordo totalmente!"
-          },
-          {
-            "autor_comentario": "Pedro",
-            "email_comentario": "pedro@example.com",
-            "data_comentario": "2023-09-18",
-            "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-          }
-        ],
-        "artigos_relacionados": [
-          {
-            "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-            "autor": "Joana",
-            "data_publicacao": "2023-09-14",
-            "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-            "tags": ["Aventuras", "Natureza", "Trilhas"]
-          },
-          {
-            "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-            "autor": "Luís",
-            "data_publicacao": "2023-09-13",
-            "resumo": "Explore a diversidade culinária ao redor do mundo.",
-            "tags": ["Culinária", "Viagem", "Gastronomia"]
-          }
-        ],
-        "categoria": "Viagens",
-        "visualizacoes": 2500,
-        "tempo_leitura": "12 minutos",
-        "idioma": "Português",
-        "numero_palavras": 1800,
-        "autor_foto": "mariasilva.jpg",
-        "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-        "url_compartilhamento": "https://seusite.com/artigo/456",
-        "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 3,
-      "titulo": "#3 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-09-17",
+        "texto_comentario": "Santorini é incrível, concordo totalmente!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    },
-    {
-      "id": 4,
-      "titulo": "#4 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-09-18",
+        "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Aventuras na Natureza: Trilhas e Explorações",
+        "autor": "Joana",
+        "data_publicacao": "2023-09-14",
+        "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
+        "tags": [
+          "Aventuras",
+          "Natureza",
+          "Trilhas"
+        ]
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "titulo": "Culinária Internacional: Uma Viagem de Sabores",
+        "autor": "Luís",
+        "data_publicacao": "2023-09-13",
+        "resumo": "Explore a diversidade culinária ao redor do mundo.",
+        "tags": [
+          "Culinária",
+          "Viagem",
+          "Gastronomia"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2500,
+    "tempo_leitura": "12 minutos",
+    "idioma": "Português",
+    "numero_palavras": 1800,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "#2 - Viagens pelo Mundo: Explorando Destinos Exóticos",
+    "subtitulo": "Descubra os Lugares Mais Surpreendentes do Planeta",
+    "autor": {
+      "nome": "Luís Oliveira",
+      "email": "luisoliveira@example.com",
+      "perfil_social": {
+        "twitter": "luisoliveira",
+        "linkedin": "luisoliveira"
+      }
     },
-    {
-      "id": 5,
-      "titulo": "#5 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-10-20",
+    "conteudo": "Explorar destinos exóticos é uma aventura única que enriquece a alma. Neste artigo, compartilho algumas das experiências mais emocionantes que tive ao redor do mundo...\n\n## Maravilhas do Planeta\n\nO nosso planeta está repleto de maravilhas naturais e culturais. Desde as praias paradisíacas do Taiti até as selvas misteriosas do Amazonas, a Terra é um lugar incrível.\n\n![Imagem de Destino Exótico](imagem-destino-exotico.jpg)\n\n## Experiências Inesquecíveis\n\n- Nadar com tubarões nas Ilhas Galápagos foi uma experiência emocionante.\n- Conhecer a cultura e espiritualidade do Nepal deixou uma marca profunda em mim.\n- Explorar as ruínas antigas de Angkor Wat no Camboja foi como viajar de volta no tempo.\n\n## Dicas para Viajantes\n\n- Mantenha a mente aberta para novas culturas e experiências.\n- Aprecie a natureza e respeite o meio ambiente em todas as viagens.\n- Esteja preparado para sair da zona de conforto, pois é lá que as melhores aventuras acontecem.\n\n## Conclusão\n\nViajar pelo mundo é uma jornada de autoconhecimento. Cada destino exótico oferece a oportunidade de se maravilhar com a diversidade da Terra e suas incríveis surpresas.",
+    "tags": [
+      "Viagens",
+      "Turismo",
+      "Aventura"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-10-21",
+        "texto_comentario": "Luís, suas viagens são inspiradoras! O Taiti está na minha lista agora."
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-10-22",
+        "texto_comentario": "Nepal é um lugar incrível. Obrigada por compartilhar sua experiência!"
+      },
+      {
+        "autor_comentario": "Carlos",
+        "email_comentario": "carlos@example.com",
+        "data_comentario": "2023-10-23",
+        "texto_comentario": "Angkor Wat é um sonho. Obrigado por compartilhar, Luís!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Ecoturismo Sustentável: Preservando a Natureza em Suas Viagens",
+        "autor": "Mariana",
+        "data_publicacao": "2023-10-19",
+        "resumo": "Descubra como viajar de forma sustentável e proteger o meio ambiente.",
+        "tags": [
+          "Ecoturismo",
+          "Sustentabilidade",
+          "Meio Ambiente"
+        ]
+      },
+      {
+        "titulo": "Culinária do Mundo: Sabores Exóticos em Viagem",
+        "autor": "João",
+        "data_publicacao": "2023-10-18",
+        "resumo": "Explore as delícias culinárias de destinos exóticos ao redor do mundo.",
+        "tags": [
+          "Culinária",
+          "Viagem",
+          "Gastronomia"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2800,
+    "tempo_leitura": "15 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2200,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-destino-exotico-viagem-turismo-gratis-vetor.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "#3 - Viagens pelo Mundo: Roteiro de Aventuras na África",
+    "subtitulo": "Explorando a Diversidade e Beleza do Continente Africano",
+    "autor": {
+      "nome": "João Pereira",
+      "email": "joaopereira@example.com",
+      "perfil_social": {
+        "twitter": "joaopereira",
+        "linkedin": "joaopereira"
+      }
     },
-    {
-      "id": 6,
-      "titulo": "#6 - Viagens pelo Mundo: Descobrindo Novos Destinos",
-      "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
-      "autor": {
-        "nome": "Maria Silva",
-        "email": "mariasilva@example.com",
-        "perfil_social": {
-          "twitter": "mariasilva",
-          "linkedin": "mariasilva"
-        }
+    "data_publicacao": "2023-10-25",
+    "conteudo": "A África é um continente repleto de maravilhas naturais e culturais. Neste artigo, vou compartilhar um roteiro de aventuras que o levará a alguns dos destinos mais emocionantes da África...\n\n## Destinos Memoráveis\n\n- Safari no Quênia: Testemunhe a majestade da vida selvagem africana em seu habitat natural.\n- Cachoeiras Vitória, Zâmbia e Zimbábue: Sinta o poder e a beleza destas cataratas incríveis.\n- Namíbia: Explore o deserto de Namib, um dos lugares mais antigos da Terra.\n\n![Imagem de Destino Africano](imagem-destino-africano.jpg)\n\n## Cultura e Hospitalidade\n\n- Conheça as culturas locais e experimente a hospitalidade calorosa das pessoas da África.\n- Descubra a rica herança cultural, incluindo música, dança e artesanato.\n\n## Dicas de Viagem\n\n- Respeite a vida selvagem e os ambientes naturais durante seus safaris.\n- Experimente a culinária africana, que oferece uma explosão de sabores únicos.\n- Esteja preparado para aventuras ao ar livre e experiências únicas.\n\n## Conclusão\n\nUma viagem pela África é uma jornada de descobertas, aventuras e conexões culturais. Cada canto deste continente oferece uma experiência única e inesquecível.",
+    "tags": [
+      "Viagens",
+      "Turismo",
+      "Cultura",
+      "África"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-10-26",
+        "texto_comentario": "João, sua viagem ao Quênia deve ter sido incrível. Obrigada por compartilhar!"
       },
-      "data_publicacao": "2023-09-15",
-      "conteudo":
-        "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter. Neste artigo, vou compartilhar algumas das minhas aventuras de viagem favoritas e inspirá-lo a explorar novos destinos...\n\n## A Magia das Viagens\n\nViajar nos permite conhecer novas culturas, saborear culinárias incríveis e testemunhar paisagens deslumbrantes. É uma jornada de auto-descoberta.\n\n![Imagem de Viagem](imagem-viagem.jpg)\n\n## Destinos Favoritos\n\nAlguns dos meus destinos favoritos incluem:\n\n- **Kyoto, Japão:** A beleza dos templos e jardins é de tirar o fôlego.\n- **Machu Picchu, Peru:** Uma maravilha arqueológica nas montanhas.\n- **Santorini, Grécia:** As vistas do pôr do sol são inesquecíveis.\n\n## Dicas de Viagem\n\n- Sempre experimente a comida local.\n- Interaja com moradores locais para obter insights autênticos.\n- Mantenha um diário de viagem para lembranças duradouras.\n\n## Conclusão\n\nViajar é uma paixão que todos deveriam explorar. Cada destino tem sua própria história para contar e sua própria magia para compartilhar.",
-      "tags": ["Viagens", "Turismo", "Cultura"],
-      "comentarios": [
-        {
-          "autor_comentario": "João",
-          "email_comentario": "joao@example.com",
-          "data_comentario": "2023-09-16",
-          "texto_comentario":
-            "Adorei o artigo, Maria! Machu Picchu está na minha lista de desejos."
-        },
-        {
-          "autor_comentario": "Ana",
-          "email_comentario": "ana@example.com",
-          "data_comentario": "2023-09-17",
-          "texto_comentario": "Santorini é incrível, concordo totalmente!"
-        },
-        {
-          "autor_comentario": "Pedro",
-          "email_comentario": "pedro@example.com",
-          "data_comentario": "2023-09-18",
-          "texto_comentario": "Dicas úteis para viajantes. Obrigado!"
-        }
-      ],
-      "artigos_relacionados": [
-        {
-          "titulo": "Aventuras na Natureza: Trilhas e Explorações",
-          "autor": "Joana",
-          "data_publicacao": "2023-09-14",
-          "resumo": "Descubra o mundo natural através de trilhas emocionantes.",
-          "tags": ["Aventuras", "Natureza", "Trilhas"]
-        },
-        {
-          "titulo": "Culinária Internacional: Uma Viagem de Sabores",
-          "autor": "Luís",
-          "data_publicacao": "2023-09-13",
-          "resumo": "Explore a diversidade culinária ao redor do mundo.",
-          "tags": ["Culinária", "Viagem", "Gastronomia"]
-        }
-      ],
-      "categoria": "Viagens",
-      "visualizacoes": 2500,
-      "tempo_leitura": "12 minutos",
-      "idioma": "Português",
-      "numero_palavras": 1800,
-      "autor_foto": "mariasilva.jpg",
-      "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-aventura-viagem-de-viagem-cartoon-web-banner-gratis-vetor.jpg",
-      "url_compartilhamento": "https://seusite.com/artigo/456",
-      "fonte_referencia": "https://exemplo.com/viagens-referencia"
-    }
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-10-27",
+        "texto_comentario": "As Cachoeiras Vitória são um espetáculo da natureza. Adoraria visitar!"
+      },
+      {
+        "autor_comentario": "Larissa",
+        "email_comentario": "larissa@example.com",
+        "data_comentario": "2023-10-28",
+        "texto_comentario": "A África é um sonho de viagem. Obrigada pelas dicas, João!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Ecoturismo Sustentável: Preservando a Natureza em Suas Viagens",
+        "autor": "Mariana",
+        "data_publicacao": "2023-10-24",
+        "resumo": "Descubra como viajar de forma sustentável e proteger o meio ambiente.",
+        "tags": [
+          "Ecoturismo",
+          "Sustentabilidade",
+          "Meio Ambiente"
+        ]
+      },
+      {
+        "titulo": "Gastronomia Africana: Sabores Autênticos do Continente",
+        "autor": "Luísa",
+        "data_publicacao": "2023-10-23",
+        "resumo": "Explore a rica culinária africana em suas viagens.",
+        "tags": [
+          "Culinária",
+          "Viagem",
+          "Gastronomia"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3100,
+    "tempo_leitura": "14 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2100,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-viagem-africa-safari-aventura-gratis-vetor.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "#4 - Viagens pelo Mundo: A Magia da Exploração Subaquática",
+    "subtitulo": "Descobrindo os Segredos dos Oceanos e Mares",
+    "autor": {
+      "nome": "Mariana Santos",
+      "email": "marianasantos@example.com",
+      "perfil_social": {
+        "twitter": "marianasantos",
+        "linkedin": "marianasantos"
+      }
+    },
+    "data_publicacao": "2023-10-30",
+    "conteudo": "A exploração subaquática nos leva a um mundo misterioso e deslumbrante. Neste artigo, mergulhamos fundo para descobrir os segredos dos oceanos e mares...\n\n## Belezas Subaquáticas\n\nOs oceanos e mares escondem paisagens incríveis, de recifes de coral coloridos a navios naufragados cheios de história.\n\n![Imagem de Exploração Subaquática](imagem-exploracao-subaquatica.jpg)\n\n## Vida Marinha Surpreendente\n\n- Conheça criaturas fascinantes, como tubarões, golfinhos e tartarugas marinhas.\n- Explore ecossistemas subaquáticos e sua importância para o equilíbrio ecológico.\n\n## Aventuras Submarinas\n\n- Mergulhe em naufrágios para explorar o passado e preservar relíquias históricas.\n- Faça snorkel nos recifes de coral e maravilhe-se com a diversidade de vida marinha.\n- Aprenda a mergulhar com cilindro e descubra um novo mundo de possibilidades.\n\n## Conclusão\n\nA exploração subaquática nos lembra da importância de proteger nossos oceanos e apreciar a beleza e diversidade da vida marinha. Cada mergulho é uma jornada de descoberta.",
+    "tags": [
+      "Viagens",
+      "Exploração Subaquática",
+      "Vida Marinha"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-10-31",
+        "texto_comentario": "A vida marinha é incrível. Adoraria mergulhar em recifes de coral!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-11-01",
+        "texto_comentario": "Mergulhar em naufrágios deve ser uma experiência única. Ótimo artigo, Mariana!"
+      },
+      {
+        "autor_comentario": "Ricardo",
+        "email_comentario": "ricardo@example.com",
+        "data_comentario": "2023-11-02",
+        "texto_comentario": "A conservação dos oceanos é crucial. Obrigado por destacar isso!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Ecologia Marinha: Protegendo Nossos Oceanos e Vida Aquática",
+        "autor": "Lucas",
+        "data_publicacao": "2023-10-29",
+        "resumo": "Saiba como a ecologia marinha desempenha um papel fundamental na preservação dos oceanos.",
+        "tags": [
+          "Ecologia",
+          "Conservação",
+          "Oceanos"
+        ]
+      },
+      {
+        "titulo": "Destinos de Mergulho Incríveis ao Redor do Mundo",
+        "autor": "João",
+        "data_publicacao": "2023-10-28",
+        "resumo": "Descubra alguns dos melhores lugares para mergulho e exploração subaquática.",
+        "tags": [
+          "Mergulho",
+          "Viagem",
+          "Aventura"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3200,
+    "tempo_leitura": "13 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2000,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478/exploracao-subaquatica-vida-submarina-gratis-vetor.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "#5 - Viagens pelo Mundo: Descobrindo a Magia do Deserto",
+    "subtitulo": "Uma Jornada Pelos Desertos Mais Fascinantes da Terra",
+    "autor": {
+      "nome": "Pedro Fernandes",
+      "email": "pedrofernandes@example.com",
+      "perfil_social": {
+        "twitter": "pedrofernandes",
+        "linkedin": "pedrofernandes"
+      }
+    },
+    "data_publicacao": "2023-11-05",
+    "conteudo": "Os desertos são lugares de beleza e mistério. Neste artigo, embarcamos em uma jornada pelos desertos mais fascinantes da Terra e exploramos sua magia única...\n\n## Maravilhas dos Desertos\n\n- Do deserto do Saara, com suas dunas douradas, ao deserto de Atacama, o mais árido do mundo, cada deserto tem sua própria beleza.\n- Descubra como a vida floresce nos desertos e se adaptou às condições extremas.\n\n![Imagem de Deserto](imagem-deserto.jpg)\n\n## Aventuras no Deserto\n\n- Faça um safári no deserto para observar a vida selvagem adaptada a essas paisagens únicas.\n- Explore as formações rochosas e canyons esculpidos pelo vento e pela areia.\n- Aprecie o céu noturno estrelado, livre da poluição luminosa das cidades.\n\n## Dicas para Viajar no Deserto\n\n- Esteja preparado para as condições extremas, incluindo calor intenso e falta de água.\n- Respeite o meio ambiente e siga as práticas de turismo sustentável.\n- Converse com os habitantes locais e aprenda sobre suas culturas e tradições.\n\n## Conclusão\n\nOs desertos são destinos surpreendentes que oferecem uma visão única da natureza e da resiliência da vida. Cada visita a um deserto é uma jornada inesquecível.",
+    "tags": [
+      "Viagens",
+      "Aventura",
+      "Desertos"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-11-06",
+        "texto_comentario": "Os desertos são tão impressionantes. O Saara é um lugar que quero conhecer."
+      },
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-11-07",
+        "texto_comentario": "As fotos do céu estrelado nos desertos são incríveis. Ótimo artigo, Pedro!"
+      },
+      {
+        "autor_comentario": "Ricardo",
+        "email_comentario": "ricardo@example.com",
+        "data_comentario": "2023-11-08",
+        "texto_comentario": "O deserto de Atacama é um dos lugares mais especiais que já visitei."
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Turismo Sustentável em Áreas Desérticas",
+        "autor": "Mariana",
+        "data_publicacao": "2023-11-04",
+        "resumo": "Saiba como viajar de forma sustentável pelos desertos e preservar esses ecossistemas frágeis.",
+        "tags": [
+          "Turismo Sustentável",
+          "Desertos",
+          "Sustentabilidade"
+        ]
+      },
+      {
+        "titulo": "Fotografia de Paisagens Desérticas: Capturando a Essência do Vazio",
+        "autor": "João",
+        "data_publicacao": "2023-11-03",
+        "resumo": "Explore a arte da fotografia de paisagens em ambientes desérticos.",
+        "tags": [
+          "Fotografia",
+          "Desertos",
+          "Arte"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3300,
+    "tempo_leitura": "16 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2400,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-deserto-aventura-viagem-paisagem-gratis-vetor.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "#6 - Viagens pelo Mundo: A Arte da Exploração Polar",
+    "subtitulo": "Navegando Pelas Regiões Mais Frias da Terra",
+    "autor": {
+      "nome": "Ricardo Almeida",
+      "email": "ricardoalmeida@example.com",
+      "perfil_social": {
+        "twitter": "ricardoalmeida",
+        "linkedin": "ricardoalmeida"
+      }
+    },
+    "data_publicacao": "2023-11-10",
+    "conteudo": "As regiões polares da Terra são lugares de beleza e desafio extremo. Neste artigo, exploramos a arte de viajar e sobreviver nas regiões mais frias do planeta...\n\n## Beleza Gélida\n\nAs paisagens polares são repletas de icebergs, geleiras e vida selvagem adaptada ao frio intenso.\n\n![Imagem de Exploração Polar](imagem-exploracao-polar.jpg)\n\n## Expedições Notáveis\n\n- A corrida ao Polo Sul no início do século XX foi uma façanha de exploração inigualável.\n- Os encontros com ursos polares e baleias nas regiões árticas são experiências únicas.\n- A vida nas estações de pesquisa na Antártida revela os desafios da convivência em condições extremas.\n\n## Dicas para Sobreviver no Gelo\n\n- Vista-se com roupas apropriadas para o frio extremo e ventos cortantes.\n- Esteja preparado para enfrentar longas noites de inverno polar e curtas tardes de verão.\n- Respeite as precauções de segurança ao explorar as regiões polares, pois o clima é implacável.\n\n## Conclusão\n\nA exploração polar nos lembra da importância de preservar essas regiões frágeis e da resiliência do espírito humano. Cada viagem polar é uma aventura única.",
+    "tags": [
+      "Viagens",
+      "Exploração Polar",
+      "Regiões Polares"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-11-11",
+        "texto_comentario": "As paisagens polares são impressionantes. Gostaria de visitar um dia."
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-11-12",
+        "texto_comentario": "A corrida ao Polo Sul é uma história fascinante. Ótimo artigo, Ricardo!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-11-13",
+        "texto_comentario": "A vida nas estações de pesquisa na Antártida deve ser desafiadora. Obrigada por compartilhar, Ricardo!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Preservação das Regiões Polares: Protegendo Nossos Polos",
+        "autor": "Lucas",
+        "data_publicacao": "2023-11-09",
+        "resumo": "Saiba como a preservação das regiões polares é crucial para o equilíbrio climático do planeta.",
+        "tags": [
+          "Preservação",
+          "Regiões Polares",
+          "Meio Ambiente"
+        ]
+      },
+      {
+        "titulo": "Fotografia Polar: Capturando a Beleza do Extremo",
+        "autor": "Joana",
+        "data_publicacao": "2023-11-08",
+        "resumo": "Explore a arte da fotografia nas regiões polares e suas paisagens únicas.",
+        "tags": [
+          "Fotografia",
+          "Regiões Polares",
+          "Arte"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3400,
+    "tempo_leitura": "17 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2500,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-exploracao-polar-viagem-gelo-gratis-vetor.jpg"
+  }
 ]
