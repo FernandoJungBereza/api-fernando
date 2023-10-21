@@ -3,6 +3,7 @@
     "id": 1,
     "titulo": "#1 - Viagens pelo Mundo: Descobrindo Novos Destinos",
     "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
+    "descricao": "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter",
     "autor": {
       "nome": "Maria Silva",
       "email": "mariasilva@example.com",
@@ -73,6 +74,7 @@
     "id": 2,
     "titulo": "#2 - Viagens pelo Mundo: Explorando Destinos Exóticos",
     "subtitulo": "Descubra os Lugares Mais Surpreendentes do Planeta",
+    "descricao": "Explorar destinos exóticos é uma aventura única que enriquece a alma",
     "autor": {
       "nome": "Luís Oliveira",
       "email": "luisoliveira@example.com",
@@ -143,6 +145,7 @@
     "id": 3,
     "titulo": "#3 - Viagens pelo Mundo: Roteiro de Aventuras na África",
     "subtitulo": "Explorando a Diversidade e Beleza do Continente Africano",
+    "descricao": "A África é um continente repleto de maravilhas naturais e culturais",
     "autor": {
       "nome": "João Pereira",
       "email": "joaopereira@example.com",
@@ -214,6 +217,7 @@
     "id": 4,
     "titulo": "#4 - Viagens pelo Mundo: A Magia da Exploração Subaquática",
     "subtitulo": "Descobrindo os Segredos dos Oceanos e Mares",
+    "descricao": "A exploração subaquática nos leva a um mundo misterioso e deslumbrante",
     "autor": {
       "nome": "Mariana Santos",
       "email": "marianasantos@example.com",
@@ -284,6 +288,7 @@
     "id": 5,
     "titulo": "#5 - Viagens pelo Mundo: Descobrindo a Magia do Deserto",
     "subtitulo": "Uma Jornada Pelos Desertos Mais Fascinantes da Terra",
+    "descricao": "Os desertos são lugares de beleza e mistério",
     "autor": {
       "nome": "Pedro Fernandes",
       "email": "pedrofernandes@example.com",
@@ -354,6 +359,7 @@
     "id": 6,
     "titulo": "#6 - Viagens pelo Mundo: A Arte da Exploração Polar",
     "subtitulo": "Navegando Pelas Regiões Mais Frias da Terra",
+    "descricao": "As regiões polares da Terra são lugares de beleza e desafio extremo",
     "autor": {
       "nome": "Ricardo Almeida",
       "email": "ricardoalmeida@example.com",

@@ -3,6 +3,7 @@
     "id": 1,
     "titulo": "#1 - A Magia das Cozinhas do Mundo: Descobrindo Sabores Autênticos",
     "subtitulo": "Uma Jornada Gastronômica por Culturas Diversas",
+    "descricao": "Explorar a diversidade culinária do mundo",
     "autor": {
       "nome": "Isabella Ferreira",
       "email": "isabellaferreira@example.com",
@@ -74,6 +75,7 @@
     "id": 2,
     "titulo": "#2 - Sabores do Oriente: Uma Viagem Gastronômica pelo Extremo Oriente",
     "subtitulo": "Explorando os Deliciosos Segredos da Ásia",
+    "descricao": "A Ásia é um continente repleto de diversidade culinária",
     "autor": {
       "nome": "Hiroshi Yamamoto",
       "email": "hiroshiyamamoto@example.com",
@@ -133,6 +135,7 @@
     "id": 3,
     "titulo": "#3 - A Arte do Churrasco: Sabores da América do Sul",
     "subtitulo": "Explorando a Tradição da Carne Assada",
+    "descricao": "A América do Sul é famosa por sua tradição de churrasco",
     "autor": {
       "nome": "José Garcia",
       "email": "josegarcia@example.com",
@@ -192,6 +195,7 @@
     "id": 4,
     "titulo": "#4 - A Culinária Mediterrânea: Sabores à Beira do Mar",
     "subtitulo": "Explorando as Delícias dos Países Mediterrâneos",
+    "descricao": "A região do Mediterrâneo é conhecida por sua dieta saudável e saborosa",
     "autor": {
       "nome": "Sofia Lopez",
       "email": "sofialopez@example.com",
@@ -251,6 +255,7 @@
     "id": 5,
     "titulo": "#5 - A Magia dos Sabores Exóticos: Uma Jornada Gastronômica",
     "subtitulo": "Explorando os Pratos Mais Exóticos do Mundo",
+    "descricao": "A culinária exótica é uma porta de entrada para sabores incríveis",
     "autor": {
       "nome": "Carlos Mendes",
       "email": "carlosmendes@example.com",
@@ -310,6 +315,7 @@
     "id": 6,
     "titulo": "#6 - A Deliciosa Arte da Confeitaria: Doces e Sobremesas pelo Mundo",
     "subtitulo": "Uma Jornada Açucarada pelas Melhores Sobremesas",
+    "descricao": "Sobremesas são o toque doce no final de uma refeição",
     "autor": {
       "nome": "Lara Alves",
       "email": "laraalves@example.com",

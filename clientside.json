@@ -3,6 +3,7 @@
     "id": 1,
     "titulo": "#1 - A Exploração do Universo: Descobrindo Segredos Cósmicos",
     "subtitulo": "Uma Jornada Inesquecível de Aventuras e Culturas",
+    "descricao": "Viajar pelo mundo é uma das experiências mais enriquecedoras que alguém pode ter",
     "autor": {
       "nome": "Maria Silva",
       "email": "mariasilva@example.com",
@@ -73,6 +74,7 @@
     "id": 2,
     "titulo": "#2 - A Exploração do Universo: Em Busca de Vida Extraterrestre",
     "subtitulo": "A Caça por Sinais de Vida Além da Terra",
+    "descricao": "A busca por vida extraterrestre é um dos empreendimentos mais emocionantes da astronomia",
     "autor": {
       "nome": "Isabel Rodrigues",
       "email": "isabelrodrigues@example.com",
@@ -143,6 +145,7 @@
     "id": 3,
     "titulo": "#3 - A Exploração do Universo: Os Mistérios dos Buracos Negros",
     "subtitulo": "Jornada ao Coração da Gravidade Extrema",
+    "descricao": "Os buracos negros são objetos celestes fascinantes e enigmáticos que desafiam nossa compreensão da física",
     "autor": {
       "nome": "Rafael Fernandes",
       "email": "rafaelfernandes@example.com",
@@ -213,6 +216,7 @@
     "id": 4,
     "titulo": "#4 - A Exploração do Universo: A Conquista de Marte",
     "subtitulo": "A Próxima Fronteira da Exploração Espacial",
+    "descricao": "Marte, o Planeta Vermelho, sempre cativou a imaginação da humanidade",
     "autor": {
       "nome": "Joana Silva",
       "email": "joanasilva@example.com",
@@ -283,6 +287,7 @@
     "id": 5,
     "titulo": "#5 - A Exploração do Universo: Viagem ao Centro da Galáxia",
     "subtitulo": "Explorando o Núcleo Galáctico e Seus Mistérios",
+    "descricao": "Viajar ao centro da nossa galáxia é uma jornada fascinante e desafiadora",
     "autor": {
       "nome": "André Santos",
       "email": "andresantos@example.com",
@@ -353,6 +358,7 @@
     "id": 6,
     "titulo": "#6 - A Exploração do Universo: Os Segredos das Estrelas de Nêutrons",
     "subtitulo": "Densidade Extrema e Poder Cósmico",
+    "descricao": "As estrelas de nêutrons são objetos cósmicos incrivelmente densos e misteriosos",
     "autor": {
       "nome": "Carla Rodrigues",
       "email": "carlarodrigues@example.com",
