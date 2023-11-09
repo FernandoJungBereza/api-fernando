@@ -310,7 +310,6 @@
     "numero_palavras": 2400,
     "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
   },
-  
   {
     "id": 6,
     "titulo": "#6 - A Deliciosa Arte da Confeitaria: Doces e Sobremesas pelo Mundo",
@@ -369,5 +368,124 @@
     "idioma": "Português",
     "numero_palavras": 2300,
     "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "#7 - A Rota dos Sabores: Delícias Gastronômicas de Diferentes Culturas",
+    "subtitulo": "Uma Viagem Culinária pelas Sobremesas do Mundo",
+    "descricao": "As sobremesas são uma expressão única da cultura e criatividade de cada região do mundo.",
+    "autor": {
+      "nome": "Lara Alves",
+      "email": "laraalves@example.com",
+      "perfil_social": {
+        "twitter": "laraalves",
+        "linkedin": "laraalves"
+      }
+    },
+    "data_publicacao": "2023-12-15",
+    "conteudo": "As sobremesas são uma expressão única da cultura e criatividade de cada região do mundo. Neste artigo, embarque em uma jornada culinária para descobrir algumas das mais deliciosas sobremesas que encantam paladares ao redor do globo...\n\n## Explorando Sabores Globais\n\nA culinária é uma linguagem universal, e as sobremesas são suas poesias. Conheça algumas delas:\n\n- **Brigadeiro, Brasil:** Uma delícia brasileira à base de chocolate e leite condensado.\n- **Baklava, Turquia:** Uma sobremesa folhada com nozes e mel, uma obra-prima turca.\n- **Anmitsu, Japão:** Gelatina de agar-agar com frutas, redondo e delicioso.\n\n![Imagem de Sobremesas Globais](imagem-sobremesas-globais.jpg)\n\n## Dicas para Apreciadores de Doces\n\n- Experimente sobremesas em mercados locais para uma autêntica experiência gastronômica.\n- Converse com chefs locais para descobrir histórias por trás das receitas tradicionais.\n- Compartilhe suas próprias descobertas e receitas de sobremesas nas redes sociais.\n\n## Conclusão\n\nCada doce é uma viagem sensorial, uma conexão direta com as tradições e histórias de uma cultura.",
+    "tags": ["Viagens", "Confeitaria", "Sobremesas", "Culinária"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-12-16",
+        "texto_comentario": "Adoro experimentar sobremesas de diferentes partes do mundo. Seu artigo é inspirador, Lara!"
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-12-17",
+        "texto_comentario": "As sobremesas turcas são divinas. Obrigado por compartilhar, Lara!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-18",
+        "texto_comentario": "Que jornada deliciosa ao redor do mundo. Mal posso esperar para experimentar essas sobremesas!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Cafés Especiais: Explorando Aromas e Sabores Únicos",
+        "autor": "Ricardo",
+        "data_publicacao": "2023-12-14",
+        "resumo": "Descubra o mundo dos cafés especiais e suas características distintas.",
+        "tags": ["Café", "Bebidas", "Exploração Culinária"]
+      },
+      {
+        "titulo": "Tradições Gastronômicas: Celebrando Festivais de Comida ao Redor do Mundo",
+        "autor": "Sophie",
+        "data_publicacao": "2023-12-13",
+        "resumo": "Explore como diferentes culturas celebram a comida em festivais gastronômicos.",
+        "tags": ["Culinária", "Cultura", "Festivais Gastronômicos"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2800,
+    "tempo_leitura": "17 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2300,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "#8 - Do Oriente ao Ocidente: Uma Viagem pelos Sabores Exóticos das Sobremesas",
+    "subtitulo": "Descubra Delícias Doces de Diferentes Cantos do Mundo",
+    "descricao": "As sobremesas, com sua diversidade de sabores, revelam a riqueza cultural ao redor do globo.",
+    "autor": {
+      "nome": "Lara Alves",
+      "email": "laraalves@example.com",
+      "perfil_social": {
+        "twitter": "laraalves",
+        "linkedin": "laraalves"
+      }
+    },
+    "data_publicacao": "2023-12-15",
+    "conteudo": "As sobremesas, com sua diversidade de sabores, revelam a riqueza cultural ao redor do globo. Neste artigo, convido você a explorar as maravilhas doces de diferentes partes do mundo, desde o Oriente até o Ocidente...\n\n## Degustando o Mundo\n\nA cada mordida, uma nova descoberta. Veja algumas sobremesas que encantam paladares:\n\n- **Mochi, Japão:** Delicados bolinhos de arroz recheados, uma iguaria japonesa.\n- **Baklava, Turquia:** Camadas de massa filo, nozes e mel, uma doce tradição turca.\n- **Churros, México:** Tiras de massa frita com açúcar e canela, uma tentação mexicana.\n\n![Imagem de Sobremesas do Mundo](imagem-sobremesas-mundo.jpg)\n\n## Dicas para Explorar Sabores Exóticos\n\n- Visite festivais de comida internacional para uma verdadeira experiência gastronômica.\n- Convide amigos para uma noite de degustação de sobremesas de diferentes culturas.\n- Aventure-se na cozinha e tente replicar receitas autênticas em casa.\n\n## Conclusão\n\nCada sobremesa é uma pequena viagem ao coração de uma cultura, uma experiência que transcende fronteiras.",
+    "tags": ["Viagens", "Confeitaria", "Sobremesas", "Cultura"],
+    "comentarios": [
+      {
+        "autor_comentario": "Maria",
+        "email_comentario": "maria@example.com",
+        "data_comentario": "2023-12-16",
+        "texto_comentario": "Sua jornada pelos sabores é incrível, Lara! Estou ansiosa para experimentar essas delícias."
+      },
+      {
+        "autor_comentario": "Luís",
+        "email_comentario": "luis@example.com",
+        "data_comentario": "2023-12-17",
+        "texto_comentario": "Churros mexicanos são irresistíveis. Obrigado por compartilhar, Lara!"
+      },
+      {
+        "autor_comentario": "Ana",
+        "email_comentario": "ana@example.com",
+        "data_comentario": "2023-12-18",
+        "texto_comentario": "Uma viagem doce ao redor do mundo. Adorei cada pedaço desse artigo, Lara!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Gastronomia de Rua: Sabores Surpreendentes em Cada Esquina",
+        "autor": "Ricardo",
+        "data_publicacao": "2023-12-14",
+        "resumo": "Explore as delícias da gastronomia de rua ao redor do mundo e suas histórias cativantes.",
+        "tags": ["Gastronomia", "Culinária", "Viagens"]
+      },
+      {
+        "titulo": "Cafés do Mundo: Uma Jornada pelos Aromas e Tradições",
+        "autor": "Sophie",
+        "data_publicacao": "2023-12-13",
+        "resumo": "Descubra como diferentes países celebram o café e suas distintas tradições.",
+        "tags": ["Café", "Bebidas", "Exploração Culinária"]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 2800,
+    "tempo_leitura": "17 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2300,
+    "imagem_destaque": "https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-crayfish-food-food-condiment-black-horizontal-banner-goodsseasoningblackhorizontal-bannerdelicious-image_50376.jpg"
   }
+  
 ]

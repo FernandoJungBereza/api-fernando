@@ -425,5 +425,150 @@
     "idioma": "Português",
     "numero_palavras": 2500,
     "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-exploracao-polar-viagem-gelo-gratis-vetor.jpg"
-  }
+  },
+  {
+    "id": 7,
+    "titulo": "#7 - África Cultural: Uma Jornada pelos Tesouros do Continente",
+    "subtitulo": "Descobrindo a Diversidade e Beleza Cultural",
+    "descricao": "A África é um continente repleto de tesouros culturais fascinantes que merecem ser explorados.",
+    "autor": {
+      "nome": "João Pereira",
+      "email": "joaopereira@example.com",
+      "perfil_social": {
+        "twitter": "joaopereira",
+        "linkedin": "joaopereira"
+      }
+    },
+    "data_publicacao": "2023-10-25",
+    "conteudo": "A África é um continente repleto de tesouros culturais fascinantes que merecem ser explorados. Neste artigo, embarque em uma jornada única pelos destinos mais ricos em tradições e beleza cultural da África...\n\n## Destinos Culturais\n\n- Casablanca, Marrocos: Mergulhe na arquitetura exótica, mercados vibrantes e na rica herança árabe.\n- Salvador, Brasil: Conheça a influência africana na cultura brasileira através da música, dança e religião.\n- Timbuktu, Mali: Explore a antiga cidade, berço do conhecimento e comércio na África Ocidental.\n\n![Imagem de Destino Cultural Africano](imagem-destino-cultural-africano.jpg)\n\n## Experiências Autênticas\n\n- Festivais Tradicionais: Participe de festivais coloridos que celebram danças, músicas e tradições locais.\n- Artes e Artesanato: Descubra o talento artístico africano através de esculturas, pinturas e tecelagem.\n\n## Dicas de Viagem Cultural\n\n- Respeite as tradições locais e participe ativamente para uma experiência mais enriquecedora.\n- Converse com moradores locais para aprender sobre suas histórias e costumes.\n\n## Conclusão\n\nExplorar a África cultural é uma jornada que enriquece a alma, proporcionando um entendimento mais profundo da diversidade e riqueza deste continente."
+  ,
+    "tags": [
+      "Cultura",
+      "Viagens",
+      "Turismo",
+      "África"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-10-26",
+        "texto_comentario": "João, sua exploração cultural é inspiradora. Adoraria visitar esses destinos!"
+      },
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-10-27",
+        "texto_comentario": "A diversidade cultural da África é incrível. Obrigado por compartilhar, João!"
+      },
+      {
+        "autor_comentario": "Larissa",
+        "email_comentario": "larissa@example.com",
+        "data_comentario": "2023-10-28",
+        "texto_comentario": "Que viagem cultural maravilhosa. Amei as dicas!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Arte Africana Contemporânea: Expressões Modernas da Tradição",
+        "autor": "Mariana",
+        "data_publicacao": "2023-10-24",
+        "resumo": "Explore a evolução da arte africana através de expressões contemporâneas.",
+        "tags": [
+          "Arte",
+          "Cultura",
+          "África"
+        ]
+      },
+      {
+        "titulo": "Música Africana: Ritmos que Contam Histórias",
+        "autor": "Luísa",
+        "data_publicacao": "2023-10-23",
+        "resumo": "Conheça a diversidade musical da África e sua influência global.",
+        "tags": [
+          "Música",
+          "Cultura",
+          "África"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3100,
+    "tempo_leitura": "14 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2100,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-viagem-africa-safari-aventura-gratis-vetor.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "#8 - Sabores da África: Uma Expedição Gastronômica pelo Continente",
+    "subtitulo": "Explorando a Diversidade e Richesa da Culinária Africana",
+    "descricao": "A culinária africana é um tesouro de sabores únicos e autênticos que merecem ser descobertos.",
+    "autor": {
+      "nome": "João Pereira",
+      "email": "joaopereira@example.com",
+      "perfil_social": {
+        "twitter": "joaopereira",
+        "linkedin": "joaopereira"
+      }
+    },
+    "data_publicacao": "2023-10-25",
+    "conteudo": "A culinária africana é um tesouro de sabores únicos e autênticos que merecem ser descobertos. Neste artigo, embarque em uma viagem gastronômica pelos destinos mais saborosos da África...\n\n## Sabores Memoráveis\n\n- Couscous Marroquino: Uma iguaria tradicional, muitas vezes acompanhada de cordeiro e vegetais.\n- Bobotie Sul-Africano: Um prato rico em especiarias, misturando carne moída, ovos e leite.\n- Moqueca Moçambicana: Um cozido de peixe em leite de coco e especiarias, uma explosão de sabores.\n\n![Imagem de Destino Gastronômico Africano](imagem-destino-gastronomico-africano.jpg)\n\n## Experiências Gastronômicas\n\n- Mercados Locais: Explore os mercados vibrantes para experimentar ingredientes frescos e autênticos.\n- Aulas de Culinária: Participe de aulas para aprender a preparar pratos tradicionais da África.\n\n## Dicas de Viagem Gastronômica\n\n- Não deixe de experimentar pratos de rua para uma autêntica experiência culinária.\n- Esteja aberto para provar novos ingredientes e sabores locais.\n\n## Conclusão\n\nA África é um banquete de sabores, e cada prato conta uma história única da rica cultura e diversidade deste continente.",
+    "tags": [
+      "Culinária",
+      "Viagens",
+      "Gastronomia",
+      "África"
+    ],
+    "comentarios": [
+      {
+        "autor_comentario": "Marta",
+        "email_comentario": "marta@example.com",
+        "data_comentario": "2023-10-26",
+        "texto_comentario": "João, sua jornada gastronômica pela África é deliciosa. Mal posso esperar para experimentar esses pratos!"
+      },
+      {
+        "autor_comentario": "Pedro",
+        "email_comentario": "pedro@example.com",
+        "data_comentario": "2023-10-27",
+        "texto_comentario": "A culinária africana é uma descoberta de sabores. Obrigado pelas dicas, João!"
+      },
+      {
+        "autor_comentario": "Larissa",
+        "email_comentario": "larissa@example.com",
+        "data_comentario": "2023-10-28",
+        "texto_comentario": "Que viagem gastronômica maravilhosa. Já estou planejando minha próxima refeição africana!"
+      }
+    ],
+    "artigos_relacionados": [
+      {
+        "titulo": "Vinhos Africanos: Descobrindo a Riqueza Vitivinícola do Continente",
+        "autor": "Mariana",
+        "data_publicacao": "2023-10-24",
+        "resumo": "Explore a crescente indústria vinícola africana e seus vinhos excepcionais.",
+        "tags": [
+          "Vinhos",
+          "Gastronomia",
+          "África"
+        ]
+      },
+      {
+        "titulo": "Cafés Africanos: Uma Jornada pelos Aromas do Continente",
+        "autor": "Luísa",
+        "data_publicacao": "2023-10-23",
+        "resumo": "Descubra a diversidade dos cafés africanos e suas histórias cativantes.",
+        "tags": [
+          "Café",
+          "Gastronomia",
+          "África"
+        ]
+      }
+    ],
+    "categoria": "Viagens",
+    "visualizacoes": 3100,
+    "tempo_leitura": "14 minutos",
+    "idioma": "Português",
+    "numero_palavras": 2100,
+    "imagem_destaque": "https://static.vecteezy.com/ti/vetor-gratis/p3/14634478-viagem-africa-safari-aventura-gratis-vetor.jpg"
+  }  
 ]
